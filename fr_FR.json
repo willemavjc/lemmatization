@@ -1,0 +1,22 @@
+{
+    "words": [
+        {
+            "definition": "Groupe 1",
+            "infinitive": "er",
+            "suffixes": [ "a", "ai", "aient", "ais", "ait", "ames", "ant", "as", "asse", "assent", "asses", "assiez", "assions", "at", "ates", "e", "ee", "ees", "ent", "era", "erai", "eraient", "erais", "erait", "eras", "erent", "erez", "eriez", "erions", "erons", "eront", "es", "ez", "iez", "ions", "ons" ],
+            "verbs": [
+                "aider",
+                "aimer"
+            ]
+        },
+        {
+            "definition": "Groupe 2",
+            "infinitive": "ir",
+            "suffixes": [ "i", "imes", "ira", "irai", "iraient", "irais", "irait", "iras", "irent", "irez", "iriez", "irions", "irons", "iront", "is", "issaient", "issais", "issait", "issant", "isse", "issent", "isses", "issez", "issiez", "issions", "issons", "it", "ites" ],
+            "verbs": [
+                "finir",
+                "nourrir"
+            ]
+        }
+    ]
+}
