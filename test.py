@@ -32,6 +32,6 @@ for v in data["words"]:
 
 for word in re.findall("\w+", string):
     if word in dic_.keys():
-        print(dic_[word])
-    else:
-        print(word)
+        string = string.replace(word, dic_[word], 1)
+
+print(string)
