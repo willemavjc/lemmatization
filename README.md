@@ -9,3 +9,5 @@ Problèmes liés aux verbes du groupe 3
 
 Comment gérer les verbes avec des formes difficiles boire -> bu, voir -> vu
 <br>Attention aux accents. Exemple: croire et croître donnent cru et crû
+
+Attention aux apostrophes et composition de verbe : se protège, s'appelle => protéger, appeler
